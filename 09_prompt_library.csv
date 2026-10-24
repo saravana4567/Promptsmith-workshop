@@ -1,0 +1,6 @@
+id,date,title,tool,tags,prompt,verified,notes
+1,2026-10-24,Research prompt patterns,Perplexity,research;patterns;react,"Summarize role, task, format, few-shot, chain-of-thought and ReAct prompting with citations to official guides.",no,Open every cited link before using
+2,2026-10-24,Workshop agenda draft,Claude,planning;workshop,"Draft a 2-hour agenda for first/second-year CSE students on prompt engineering with 3 hands-on exercises.",no,Timings edited by hand
+3,2026-10-24,Before/after examples,ChatGPT,examples;code;writing;study,"Create 20 before/after prompt examples across code, writing and study tasks, tagged by pattern.",no,Each pair must be run and scored
+4,2026-10-24,Quiz generation,Gemini,quiz;assessment,"Create a 12-question quiz with answer key on prompt anatomy, patterns, privacy and verification.",no,Answers checked against guides
+5,2026-10-24,Hallucination test,Claude,verification;safety,"Give 3 papers on ReAct prompting with DOI.",no,Fill in result in verification report
